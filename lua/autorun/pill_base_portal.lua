@@ -23,9 +23,9 @@ end
 AddCSLuaFile()
 
 if SERVER then
-	//resource.AddWorkshop("211811884") FIXME
+	resource.AddWorkshop("334964776")
 end
-/* FIXME
+/* PARTICLES
 game.AddParticles("particles/weapon_fx.pcf")
 PrecacheParticleSystem("weapon_combine_ion_cannon")
 PrecacheParticleSystem("weapon_combine_ion_cannon_explosion")
